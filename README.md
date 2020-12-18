@@ -53,7 +53,7 @@
 1. 💪 Opened PR [#73](https://github.com/cobidev/simplefolio/pull/73) in [cobidev/simplefolio](https://github.com/cobidev/simplefolio)
 <!--END_SECTION:activity-->
 
-[website]: https://visitcapture.dev
+[website]: https://visitcapture.com
 [twitter]: https://twitter.com/sachinhep
 [instagram]: https://instagram.com/sachinology_
 [linkedin]: https://www.linkedin.com/in/schnaror
