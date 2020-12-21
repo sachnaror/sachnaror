@@ -49,6 +49,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/sachnaror/sachnaror/pull/2) in [sachnaror/sachnaror](https://github.com/sachnaror/sachnaror)
+2. 🎉 Merged PR [#1](https://github.com/sachnaror/sachnaror/pull/1) in [sachnaror/sachnaror](https://github.com/sachnaror/sachnaror)
 <!--END_SECTION:activity-->
 
 [website]: https://visitcapture.com
