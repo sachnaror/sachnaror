@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin Arora 👋
 
-- 🔭 I’m currently working on Typescript, Laravel and Firebase.
+- 🔭 I’m currently working on Typescript, Laravel and Docker
 - 🌱 I’m currently learning Typescript more depthly and everything i come across daily i think i do not know.
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 
