@@ -55,6 +55,6 @@
 
 [website]: https://visitcapture.com
 [twitter]: https://twitter.com/sachinhep
-[instagram]: https://instagram.com/sachinology_
+[instagram]: https://instagram.com/sachinology
 [linkedin]: https://www.linkedin.com/in/schnaror
 [facebook]: https://www.facebook.com/Sachinology
