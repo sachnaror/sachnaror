@@ -53,6 +53,8 @@
 2. 🎉 Merged PR [#1](https://github.com/sachnaror/sachnaror/pull/1) in [sachnaror/sachnaror](https://github.com/sachnaror/sachnaror)
 <!--END_SECTION:activity-->
 
+[linkedin]: https://linkedin.com/schnaror
+[github]: https://github.com/sachnaror
 [twitter]: https://twitter.com/sachinhep
 [instagram]: https://instagram.com/sachinology
 [facebook]: https://www.facebook.com/Sachinology
