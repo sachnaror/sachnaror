@@ -38,11 +38,11 @@
 
 ---
 
-## [![trophy](https://github-profile-trophy.vercel.app/?username=sachnaror)][website]
+## [![trophy](https://github-profile-trophy.vercel.app/?username=sachnaror)]
 
 ### :zap: GitHub Stats
 
-[![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachnaror&count_private=true&show_icons=true)][website]
+[![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachnaror&count_private=true&show_icons=true)]
 
 ### :zap: Recent Activity
 
