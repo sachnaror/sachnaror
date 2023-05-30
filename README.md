@@ -1,7 +1,7 @@
 ### Hi there, I'm Sachin Arora 👋
 
-- 🔭 I’m currently working on Typescript, Laravel and Docker
-- 🌱 I’m currently learning Typescript more depthly and everything i come across daily i think i do not know.
+- 🔭 I’m currently working on Laravel and Django
+- 🌱 I’m currently learning out of pure love ..more depthly and everything i come across daily i think i do not know.
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 
 ---
@@ -53,8 +53,6 @@
 2. 🎉 Merged PR [#1](https://github.com/sachnaror/sachnaror/pull/1) in [sachnaror/sachnaror](https://github.com/sachnaror/sachnaror)
 <!--END_SECTION:activity-->
 
-[website]: https://visitcapture.com
 [twitter]: https://twitter.com/sachinhep
 [instagram]: https://instagram.com/sachinology
-[linkedin]: https://www.linkedin.com/in/schnaror
 [facebook]: https://www.facebook.com/Sachinology
