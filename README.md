@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin Arora 👋
 
-- 🔭 I’m currently working on Vue, Python-Django 
+- 🔭 I’m currently working on TypeScript, Vue, Python-Django 
 - 🌱 I’m currently learning out of pure love ..more depthly and everything i come across daily i think i do not know.
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 
