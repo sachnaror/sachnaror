@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently meditating JS/TS, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
-- 🎉 Two profitable e-com web portals, and two other sustainable portals (i.e. "not profit-making but not loss-making too"). 
+- 🎉 Two profitable e-com web portals. 
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 
 ---
