@@ -1,4 +1,4 @@
-### Hi there, I'm Sachin Arora 👋
+### Hi there, I'm Sachin 👋
 
 - 🔭 I’m currently working on JS/TS, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
