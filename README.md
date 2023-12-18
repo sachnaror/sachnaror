@@ -1,7 +1,7 @@
 ### Hi there, I'm Sachin Arora 👋
 
 - 🔭 I’m currently working on JS/TS, Python/Django, APIs 
-- 🌱 I’m currently learning out of pure love ...more depthly and things that are interesting + complex (but not boring or slow)
+- 🌱 Learning things that are interesting + complex (but not boring or slow)
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 
 ---
