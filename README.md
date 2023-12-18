@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently meditating JS/TS, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
-- 📫 How to reach me: [Twitter](https://twitter.com/sachinhep)  |  [Instagram](https://www.instagram.com/sachinology_/)  |  [Reddit](https://www.reddit.com/u/sachna_/) 
+- 📫 How to reach me: [Twitter](https://twitter.com/sachinhep)  |  [Reddit](https://www.reddit.com/u/sachna_/)   |   [Instagram](https://www.instagram.com/sachinology_/)   
 
 <!-- - 🎉 Two profitable e-com web portals (Laravel) - 3 Years. -->
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
