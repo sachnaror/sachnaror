@@ -1,7 +1,8 @@
 ### Hi there, I'm Sachin 👋
 
-- 🔭 I’m currently working on JS/TS, Python/Django, APIs 
+- 🔭 I’m currently meditating JS/TS, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
+- 🎉 I currently own two profitable e-commerce web portals, and two sustainable portals (i.e. "not profit-making but not loss-making too"). 
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 
 ---
