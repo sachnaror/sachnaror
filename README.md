@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin 👋
 
-- 🔭 I’m currently meditating JS/TS, Python/Django, APIs 
+- 🔭 I’m currently meditating JS/TS, Laravel, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep)  |  [Reddit](https://www.reddit.com/u/sachna_/)   |   [Instagram](https://www.instagram.com/sachinology_/)   
 
