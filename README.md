@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin 👋
 
-- 🔭 JS/TS, Python/Django, APIs 
+- 🔭 JS/TS, React/Nuxt, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep)  |  [Reddit](https://www.reddit.com/u/sachna_/)   |   [Instagram](https://www.instagram.com/sachinology_/)   
 
@@ -27,6 +27,8 @@
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
 <br />
