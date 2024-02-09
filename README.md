@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin 👋
 
-- 🔭 JS/TS, React/Nuxt, Python/Django, APIs 
+- 🔭 JS/TS, React/Next, Python/Django, APIs 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep)  |  [Reddit](https://www.reddit.com/u/sachna_/)   |   [Instagram](https://www.instagram.com/sachinology_/)   
 
