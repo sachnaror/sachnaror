@@ -2,7 +2,7 @@
 
 - 🔭 JS, APIs, Python/Django (the D is silent :~), FastAPI, Falcon, Tornado, Mongo, MySQL, Postgres 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
-- 📫 How to reach me: [Twitter](https://twitter.com/sachinhep)   
+- 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
 
 <!-- - 🎉 Two profitable e-com web portals (Laravel) - 3 Years. -->
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
