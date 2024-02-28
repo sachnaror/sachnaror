@@ -1,4 +1,4 @@
-### Hi there, I'm Sachin 👋
+### Hi, I'm Sachin 👋
 
 - 🔭 JS, APIs, Python/Django (the D is silent :~), FastAPI, Falcon, Tornado, Mongo, MySQL, Postgres 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
