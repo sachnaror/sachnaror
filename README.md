@@ -1,6 +1,6 @@
 ### Hey, How about we team up as friends? 👋
 
-- 🔭 JS, APIs, Python/Django (the D is silent :~), FastAPI, Falcon, Tornado, Mongo, MySQL, Postgres 
+- 🔭 JS, APIs, Python/Django (the D is silent :~), FastAPI, Falcon, Tornado 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
 
