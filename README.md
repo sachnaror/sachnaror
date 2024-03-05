@@ -1,6 +1,6 @@
-### Hey, How about we team up as friends? 👋
+### Hey, How about we team up as friends ? 👋
 
-- 🔭 JS, APIs, Python, Django (the D is silent :~), FastAPI, DevOps
+- 🔭 JS, APIs, Python, Django (ohh..the D is silent :~), FastAPI, DevOps
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
 
