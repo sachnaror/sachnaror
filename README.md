@@ -1,4 +1,4 @@
-### Lets team up as friends ? 👋
+### Lets team up as friends 👋
 
 - 🔭 DevOps, Python, APIs, Django (ohh..the D is silent :~), FastAPI, Flask, 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
