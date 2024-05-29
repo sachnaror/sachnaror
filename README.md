@@ -1,6 +1,6 @@
 ### Lets team up as friends 👋
 
-- 🔭 DevOps, Python, APIs, Django (ohh..the D is silent :~), FastAPI, Flask, 
+- 🔭 DevOps, Python, APIs, Django, FastAPI, Laravel 
 - 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
 
