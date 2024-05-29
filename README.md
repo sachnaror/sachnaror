@@ -1,9 +1,9 @@
 ### Lets team up as friends 👋
 
 - 🔭 DevOps, Python, APIs, Django, FastAPI, Laravel 
-- 🌱 Learning things that are interesting + complex (but not boring or slow)
 - 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
-
+<!-- - 🌱 Learning things that are interesting + complex (but not boring or slow)  -->
+  
 <!-- - 🎉 Two profitable e-com web portals (Laravel) - 3 Years. -->
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
 ---
