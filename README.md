@@ -1,6 +1,6 @@
 ### Lets team up as friends 👋
 
-- 🔭 DevOps, Python, APIs, Django, FastAPI, Figma
+- 🔭 DevOps, Python, Django, DRF-APIs, FastAPI, Flask, Figma
 - 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
 <!-- - 🌱 Learning things that are interesting + complex (but not boring or slow)  -->
   
