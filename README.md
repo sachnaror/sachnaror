@@ -23,12 +23,12 @@
 **Frontend:**
 
 - 🎨 **Bootstrap**, **Tailwind** – For when I need my apps to look as good as my code.  
-- ⚛️ **JavaScript**, **React (Next.js)** – Turning 'adrak ilaychi tea' into code, and code into great UI.
+- ⚛️ **JavaScript**, **React (Next.js)** – Turning beer into code, and code into great UI.
 
 **Backend:**
 
 - 🐍 **Python**, **Django**, **DRF**, **FastAPI** – The “let’s get things done” team. 
-- 🐘 **PostgreSQL**, **MySQL** – Databases that store my caffeine-fueled midnight thoughts.
+- 🐘 **PostgreSQL**, **MySQL** – Databases that store my beer-fueled midnight thoughts.
 - 🕷️ **Scrapy**, **Selenium** – Because what's more fun than scraping the web?
 - 🦄 **ElasticSearch**, **WebSocket** – Keeping things fast, chatty, and on point.
 - 🐇 **Celery**, **RabbitMQ** – If tasks were races, these two would be running them.
@@ -58,7 +58,7 @@
 ### ☁️ Cloud & DevOps:
 
 - ☁️ **AWS**, **DigitalOcean**, **VPS** – Keeping my code safe in the clouds (where angels sing and servers never crash).
-- 🚀 **CI/CD**, **Docker**, **GitHub Actions** – Deploying faster than my morning coffee kicks in.
+- 🚀 **CI/CD**, **Docker**, **GitHub Actions** – Deploying faster than my morning warm-lemon-orange-juice kicks in.
 - 💻 **Bash/Shell**, **YAML** – The silent heroes of automation.
 
 ---
@@ -71,6 +71,3 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachnaror&show_icons=true&theme=​⬤
