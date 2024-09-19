@@ -58,8 +58,7 @@
 
 ### ☁️ Cloud & DevOps:
 
-
-☁️  **AWS**, **DigitalOcean**, **VPS** – Keeping my code safe in the clouds (where angels sing and servers never crash).
+- **AWS**, **DigitalOcean**, **VPS** – Keeping my code safe in the clouds (where angels sing and servers never crash).
 - 🚀 **CI/CD**, **Docker**, **GitHub Actions** – Deploying faster than my morning warm-lemon-orange-juice kicks in.
 - 💻 **Bash/Shell**, **YAML** – The silent heroes of automation.
 
