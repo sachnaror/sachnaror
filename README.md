@@ -17,3 +17,59 @@
 <br />
 <br />
 
+---
+
+### Programming Languages & Frameworks:
+
+- **Frontend**:
+  - Bootstrap, Tailwind
+  - JavaScript, React (Next.js)
+
+- **Backend**:
+  - Python, Django, DRF (Django REST Framework), FastAPI (Swagger, Postman)
+  - GraphQL, PostgreSQL, MySQL
+  - Scraping (Selenium, Scrapy)
+  - Elastic Search, Web Socket
+  - Celery (with Django), RabbitMQ
+  - Signals
+  - Scalability & Optimization
+
+---
+
+### AI / Gen AI Modules & Tools:
+
+- NLP, Transformer Architecture
+- LLMs Fine-tuning, RAG & Storage
+- Prompt, Training & Inference
+- Memory and Context Management
+- Integration and External APIs
+- Evaluation & Debugging LLMs
+- API Integrations & Tooling
+- Version Control and Collaboration
+
+---
+
+### UX / Others:
+
+- **Design System**:
+  - Figma
+  - Wire-framing
+  - Rapid Prototyping
+
+- **SEO & Analytics**:
+  - SEO, Analytics
+
+- **Project Management**:
+  - Jira, Trello, Github
+
+- **E-commerce**:
+  - Shopify, WordPress
+  - Digital Marketing
+
+---
+
+### Cloud & DevOps:
+
+- Cloud: AWS, VPS, DigitalOcean
+- DevOps: CI/CD (GitHub Actions), Docker
+- Bash/Shell/YAML
