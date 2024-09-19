@@ -1,75 +1,76 @@
-### Hello
+### Hey There! 👋
 
-- 🔭 DevOps, Python, Django, DRF-APIs, FastAPI, Flask, Figma 👋
-- 📫 Connect with me 🐦 : [Twitter](https://twitter.com/sachinhep)   
-<!-- - 🌱 Learning things that are interesting + complex (but not boring or slow) -->
+- 🔭 I'm all about **DevOps**, **Python**, **Django**, **DRF-APIs**, **FastAPI**, **Flask**, and a splash of **Figma**.
+- 🐦 Come say hi on [Twitter](https://twitter.com/sachinhep) – I promise I won't bite (unless it's JSON).
+<!-- - 🌱 Always learning the next shiny thing...as long as it’s not boring. -->
   
-<!-- - 🎉 Two profitable e-com web portals (Laravel) - 3 Years. -->
-<!-- - 📫 How to reach me: [Twitter](https://twitter.com/sachinhep) [Instagram](https://www.instagram.com/sachinology_/) -->
+<!-- - 🎉 Two profitable e-com portals built with Laravel...yeah, I'm kind of a big deal. -->
 
 ---
 
-### Primary Nuclear Weapons in Arsenal :
+### ⚔️ Primary Nuclear Weapons in Arsenal:
 
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
 <br />
 
 ---
 
-### Programming Languages & Frameworks:
+### 🔥 Programming Languages & Frameworks:
 
-- **Frontend**:
-  - Bootstrap, Tailwind
-  - JavaScript, React (Next.js)
+**Frontend:**
 
-- **Backend**:
-  - Python, Django, DRF (Django REST Framework), FastAPI (Swagger, Postman)
-  - GraphQL, PostgreSQL, MySQL
-  - Scraping (Selenium, Scrapy)
-  - Elastic Search, Web Socket
-  - Celery (with Django), RabbitMQ
-  - Signals
-  - Scalability & Optimization
+- 🎨 **Bootstrap**, **Tailwind** – For when I need my apps to look as good as my code.  
+- ⚛️ **JavaScript**, **React (Next.js)** – Turning 'adrak ilaychi tea' into code, and code into great UI.
 
----
+**Backend:**
 
-### AI / Gen AI Modules & Tools:
-
-- NLP, Transformer Architecture
-- LLMs Fine-tuning, RAG & Storage
-- Prompt, Training & Inference
-- Memory and Context Management
-- Integration and External APIs
-- Evaluation & Debugging LLMs
-- API Integrations & Tooling
-- Version Control and Collaboration
+- 🐍 **Python**, **Django**, **DRF**, **FastAPI** – The “let’s get things done” team. 
+- 🐘 **PostgreSQL**, **MySQL** – Databases that store my caffeine-fueled midnight thoughts.
+- 🕷️ **Scrapy**, **Selenium** – Because what's more fun than scraping the web?
+- 🦄 **ElasticSearch**, **WebSocket** – Keeping things fast, chatty, and on point.
+- 🐇 **Celery**, **RabbitMQ** – If tasks were races, these two would be running them.
+- 🚨 **Signals**, **Optimization** – Because, who doesn't like making things faster?
 
 ---
 
-### UX / Others:
+### 🤖 AI / Gen AI Modules & Tools:
 
-- **Design System**:
-  - Figma
-  - Wire-framing
-  - Rapid Prototyping
-
-- **SEO & Analytics**:
-  - SEO, Analytics
-
-- **Project Management**:
-  - Jira, Trello, Github
-
-- **E-commerce**:
-  - Shopify, WordPress
-  - Digital Marketing
+- 🧠 **NLP**, **Transformer Architecture** – Teaching machines to understand us (or trying to).  
+- 💪 **LLMs Fine-tuning**, **RAG & Storage** – Flexing my AI muscles.  
+- 📜 **Prompt Engineering**, **Training & Inference** – Making machines say the darnedest things.  
+- 🗄️ **Memory & Context Management** – Remember that thing I told you last week, AI?  
+- 🔌 **API Integrations**, **Debugging LLMs** – Connecting the dots like a pro.  
+- 💾 **Version Control & Collaboration** – With great power comes great GitHub commits.
 
 ---
 
-### Cloud & DevOps:
+### 🎨 UX / Design System:
 
-- Cloud: AWS, VPS, DigitalOcean
-- DevOps: CI/CD (GitHub Actions), Docker
-- Bash/Shell/YAML
+- 🎨 **Figma** – Prototyping like it's an art gallery.
+- 🛠️ **Wire-framing**, **Rapid Prototyping** – Building things so fast, I even surprise myself.
+- 🌐 **SEO**, **Analytics** – I see the matrix (of traffic and user behavior). 
+
+---
+
+### ☁️ Cloud & DevOps:
+
+- ☁️ **AWS**, **DigitalOcean**, **VPS** – Keeping my code safe in the clouds (where angels sing and servers never crash).
+- 🚀 **CI/CD**, **Docker**, **GitHub Actions** – Deploying faster than my morning coffee kicks in.
+- 💻 **Bash/Shell**, **YAML** – The silent heroes of automation.
+
+---
+
+### 💼 Tools of the Trade:
+
+- 🛠️ **Jira**, **Trello**, **GitHub** – Where work gets done and tickets mysteriously disappear.
+- 🛍️ **Shopify**, **WordPress** – Selling stuff? I got you covered.
+- 📊 **Digital Marketing** – I can make your ads so irresistible even your grandma will click on them.
+
+---
+
+### 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachnaror&show_icons=true&theme=​⬤
