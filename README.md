@@ -2,11 +2,10 @@
 
 🔭 I'm all about **DevOps**, **Python**, **Django**, **DRF-APIs**, **FastAPI**, **Flask**, and a splash of **Figma**.
 
+🌱 Always learning the next shiny thing...as long as it’s not boring.
+
 🐦 Come say hi on [Twitter](https://twitter.com/sachinhep) – I promise I won't bite (unless it's JSON).
 
-<!-🌱 Always learning the next shiny thing...as long as it’s not boring. -->
-  
-<!-🎉 Two profitable e-com portals built with Laravel...yeah, I'm kind of a big deal. -->
 
 ---
 
@@ -58,6 +57,7 @@
 ---
 
 ### ☁️ Cloud & DevOps:
+
 
 ☁️  **AWS**, **DigitalOcean**, **VPS** – Keeping my code safe in the clouds (where angels sing and servers never crash).
 - 🚀 **CI/CD**, **Docker**, **GitHub Actions** – Deploying faster than my morning warm-lemon-orange-juice kicks in.
