@@ -74,7 +74,7 @@
 
 - 🛠️ **Jira**, **Trello**, **GitHub** – Where work gets done and tickets mysteriously disappear.
 - 🛍️ **Shopify**, **WordPress** – Selling stuff? I got you covered.
-- 📊 **Digital Marketing** – I can make your ads so irresistible even your grandma will click on them.
+- 📊 **Digital Marketing** – I can make your ads so irresistible even your grandma will get a kick to click.
 
 ---
 
