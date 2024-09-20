@@ -1,4 +1,5 @@
 ### Hey There! 👋
+<img align="right" width=130px height=130px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 🔭 I'm all about **DevOps**, **Python**, **Django**, **DRF-APIs**, **FastAPI**, **Flask**, and a splash of **Figma**.
 
@@ -6,8 +7,7 @@
 
 🐦 Come say hi on [Twitter](https://twitter.com/sachinhep) – I promise I won't bite (unless it's JSON).
 
-
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚔️ Primary Nuclear Weapons in Arsenal:
 
@@ -17,7 +17,8 @@
 <br />
 <br />
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### 🔥 Programming Languages & Frameworks:
 
@@ -35,7 +36,8 @@
 - 🐇 **Celery**, **RabbitMQ** – If tasks were races, these two would be running them.
 - 🚨 **Signals**, **Optimization** – Because, who doesn't like making things faster?
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### 🤖 AI / Gen AI Modules & Tools:
 
@@ -46,7 +48,8 @@
 - 🔌 **API Integrations**, **Debugging LLMs** – Connecting the dots like a pro.  
 - 💾 **Version Control & Collaboration** – With great power comes great GitHub commits.
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### 🎨 UX / Design System:
 
@@ -54,7 +57,8 @@
 - 🛠️ **Wire-framing**, **Rapid Prototyping** – Building things so fast, I even surprise myself.
 - 🌐 **SEO**, **Analytics** – I see the matrix (of traffic and user behavior). 
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### ☁️ Cloud & DevOps:
 
@@ -62,7 +66,8 @@
 - 🚀 **CI/CD**, **Docker**, **GitHub Actions** – Deploying faster than my morning warm-lemon-orange-juice kicks in.
 - 💻 **Bash/Shell**, **YAML** – The silent heroes of automation.
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### 💼 Tools of the Trade:
 
@@ -71,4 +76,6 @@
 - 📊 **Digital Marketing** – I can make your ads so irresistible even your grandma will click on them.
 
 ---
+
+
 
