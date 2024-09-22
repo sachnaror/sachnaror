@@ -5,7 +5,7 @@
 
 🌱 Always learning the next shiny thing...as long as it’s not boring.
 
-🐦 Come say hi on [Twitter](https://twitter.com/sachinhep) – I promise I won't bite (unless it's JSON).
+🐦 Come say hi on [Twitter](https://twitter.com/sachinhep) – but I might roll my eyes if your timeline’s snooze-worthy! (i.e. boring enough to even respond)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
