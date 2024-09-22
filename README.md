@@ -42,12 +42,14 @@
 
 ### 🤖 AI / Gen AI Modules & Tools:
 
-- 🧠 **NLP**, **Transformer Architecture** – Teaching machines to understand us (or trying to).  
-- 💪 **LLMs Fine-tuning**, **RAG & Storage** – Flexing my AI muscles.  
-- 📜 **Prompt Engineering**, **Training & Inference** – Making machines say the darnedest things.  
-- 🗄️ **Memory & Context Management** – Remember that thing I told you last week, AI?  
-- 🔌 **API Integrations**, **Debugging LLMs** – Connecting the dots like a pro.  
+- 🧠 **Machine Learning **: TensorFlow, PyTorch, scikit-learn – The backbone of intelligent systems.
+- 🧠 **NLP**, **Transformer Architecture** – Teaching machines to understand us (or trying to).
+- 💪 **LLMs Fine-tuning**, **RAG & Storage** – Flexing my AI muscles.
+- 📜 **Prompt Engineering**, **Training & Inference** – Making machines say the darnedest things.
+- 🗄️ **Memory & Context Management** – Remember that thing I told you last week, AI?
+- 🔌 **API Integrations**, **Debugging LLMs** – Connecting the dots like a pro.
 - 💾 **Version Control & Collaboration** – With great power comes great GitHub commits.
+- 🖼️ **Computer Vision Frameworks**: OpenCV, TensorFlow Object Detection API – Enabling machines to see and interpret the world.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
