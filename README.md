@@ -25,7 +25,7 @@
 
 **Frontend:**
 
-- 🎨 **Bootstrap**, **Tailwind** – For when I need my apps to look as good as my code.  
+- 🎨 **Bootstrap**, **Tailwind**,  **Shadcn** – Bcoz, apps have to look as good as the code.  
 - ⚛️ **JavaScript**, **React (Next.js)** – Turning beer into code, and code into great UI.
 
 **Backend:**
@@ -49,7 +49,7 @@
 - 🗄️ **Memory & Context Management** – Remember that thing I told you last week, AI?
 - 🔌 **API Integrations**, **Debugging LLMs** – Connecting the dots like a pro.
 - 💾 **Version Control & Collaboration** – With great power comes great GitHub commits.
-- 🖼️ **Computer Vision Frameworks**: OpenCV, TensorFlow Object Detection API – Enabling machines to see and interpret the world.
+- 🖼️ **Computer Vision Frameworks**: OpenCV, TensorFlow Object Detection API – Enabling machines to see the world.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
