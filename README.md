@@ -42,7 +42,7 @@
 
 ### 🤖 AI / Gen AI Modules & Tools:
 
-- 🧠 **Machine Learning ** - TensorFlow, PyTorch, scikit-learn – The backbone of intelligent systems.
+- 🧠 **Machine Learning** - TensorFlow, PyTorch, scikit-learn – The backbone of intelligent systems.
 - 🧠 **NLP**, **Transformer Architecture** – Teaching machines to understand us (or trying to).
 - 💪 **LLMs Fine-tuning**, **RAG & Storage** – Flexing my AI muscles.
 - 📜 **Prompt Engineering**, **Training & Inference** – Making machines say the darnedest things.
@@ -77,8 +77,6 @@
 - 🛠️ **Jira**, **Trello**, **GitHub** – Where work gets done and tickets mysteriously disappear.
 - 🛍️ **Shopify**, **WordPress** – Selling stuff? I got you covered.
 - 📊 **Digital Marketing** – I can make your ads so irresistible even your grandma will get a kick to click.
-
----
 
 
 
