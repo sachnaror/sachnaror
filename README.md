@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-### 🔥 Programming Languages & Frameworks:
+### 🔥 P-Languages & Frameworks:
 
 **Frontend:**
 
@@ -31,7 +31,7 @@
 **Backend:**
 
 - 🐍 **Python**, **Django**, **DRF**, **FastAPI** – The “let’s get things done” team. 
-- 🐘 **PostgreSQL**, **MySQL** – Databases that store my beer-fueled midnight thoughts.
+- 🐘 **PostgreSQL**, **Vector**, **MySQL** – Kegs store my beer-fueled midnight thoughts.
 - 🕷️ **Scrapy**, **Selenium** – Because what's more fun than scraping the web?
 - 🦄 **ElasticSearch**, **WebSocket** – Keeping things fast, chatty, and on point.
 - 🐇 **Celery**, **RabbitMQ** – If tasks were races, these two would be running them.
