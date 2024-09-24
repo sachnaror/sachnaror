@@ -31,7 +31,7 @@
 **Backend:**
 
 - 🐍 **Python**, **Django**, **DRF**, **FastAPI** – The “let’s get things done” team. 
-- 🐘 **PostgreSQL**, **Vector**, **MySQL** – Kegs store my beer-fueled midnight thoughts.
+- 🐘 **PostgreSQL**, **Vector**, **MySQL** – These DBs store my beer-fueled midnight thoughts.
 - 🕷️ **Scrapy**, **Selenium** – Because what's more fun than scraping the web?
 - 🦄 **ElasticSearch**, **WebSocket** – Keeping things fast, chatty, and on point.
 - 🐇 **Celery**, **RabbitMQ** – If tasks were races, these two would be running them.
