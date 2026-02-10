@@ -26,7 +26,7 @@
 **Frontend:**
 
 - 🎨 **Bootstrap**, **Tailwind**,  **Shadcn** – Bcoz, apps have to look as good as the code.  
-- ⚛️ **JavaScript**, **React** – Turning beer into code, and code into great UI.
+- ⚛️ **JavaScript**, **React** – Turning beer into code, and code into great UX.
 
 **Backend:**
 
