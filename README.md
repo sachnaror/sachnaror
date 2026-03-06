@@ -37,7 +37,8 @@
 - 🐇 **Celery**, **RabbitMQ** – If tasks were races, these two would be running them.
 - 🚨 **Signals**, **Optimization** – Because, who doesn't like making things faster?
 
-<a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=bO1pI1TvhaM)"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ### 🤖 AI / Gen AI Modules & Tools:
