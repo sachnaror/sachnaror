@@ -1,7 +1,7 @@
 ### Hey There! 👋
 <img align="right" width=130px height=130px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-🔭 I'm all about **LLM**, **RAGs**, **Python**, **AI/NLP/ML**, **Django**, **DRF-APIs**, **FastAPI**, **DevOps**, and a splash of **Figma**.
+🔭 I'm all about **LLM**, **RAGs**, **Python**, **AI/NLP/ML**, **Django**, **DRF-APIs**, **FastAPI**, **React**, **DevOps**, and a splash of **Figma**.
 
 🌱 Always learning the next shiny thing...as long as it’s not boring.
 
